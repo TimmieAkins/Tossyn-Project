@@ -14,7 +14,7 @@ export default defineComponent({
     <div class="card-container">
         <div class="card">
             <div class="card-img">
-                <img src="src/components/img/pexels-shvets-production-7176233.jpg" alt="">
+                <img src="../img/pexels-shvets-production-7176233.jpg" alt="">
             </div>
             <div class="card-writeup">
                 <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
@@ -29,7 +29,7 @@ export default defineComponent({
         </div>
         <div class="card">
             <div class="card-img">
-                <img src="src/components/img/pexels-shvets-production-7176233.jpg" alt="">
+                <img src="../img/pexels-shvets-production-7176233.jpg" alt="">
             </div>
             <div class="card-writeup">
                 <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
@@ -44,7 +44,7 @@ export default defineComponent({
         </div>
         <div class="card">
             <div class="card-img">
-                <img src="src/components/img/pexels-shvets-production-7176233.jpg" alt="">
+                <img src="../img/pexels-shvets-production-7176233.jpg" alt="">
             </div>
             <div class="card-writeup">
                 <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h3>
